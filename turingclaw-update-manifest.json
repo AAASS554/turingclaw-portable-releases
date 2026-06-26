@@ -1,0 +1,32 @@
+{
+  "project": "TuringClaw",
+  "projectName": "TuringClaw",
+  "latestVersion": "2026.6.27.2",
+  "version": "2026.6.27.2",
+  "buildVersion": "2026.6.27.2",
+  "tag": "v2026.6.27.2",
+  "tagName": "v2026.6.27.2",
+  "packageName": "TuringClaw-Win-Portable-v2026.6.27.2.zip",
+  "packageFileName": "TuringClaw-Win-Portable-v2026.6.27.2.zip",
+  "sha256": "2f49ee2ec95a27454556b68b104e81537cd2703cdd126f09b87ebb715c5f10f0",
+  "checksumSha256": "2f49ee2ec95a27454556b68b104e81537cd2703cdd126f09b87ebb715c5f10f0",
+  "checksumMd5": "ecdfe2d58eb8829e723100df456ba8e8",
+  "downloadUrl": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.2/TuringClaw-Win-Portable-v2026.6.27.2.zip",
+  "officialDownloadUrl": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.2/TuringClaw-Win-Portable-v2026.6.27.2.zip",
+  "proxyDownloadUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.2/TuringClaw-Win-Portable-v2026.6.27.2.zip",
+  "updateLog": [
+    "Fix portable startup/update flow and chat transcript persistence",
+    ""
+  ],
+  "artifacts": {
+    "windows-portable": {
+      "url": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.2/TuringClaw-Win-Portable-v2026.6.27.2.zip",
+      "fallbackUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.2/TuringClaw-Win-Portable-v2026.6.27.2.zip",
+      "proxyUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.2/TuringClaw-Win-Portable-v2026.6.27.2.zip",
+      "sha256": "2f49ee2ec95a27454556b68b104e81537cd2703cdd126f09b87ebb715c5f10f0",
+      "md5": "ecdfe2d58eb8829e723100df456ba8e8",
+      "fileName": "TuringClaw-Win-Portable-v2026.6.27.2.zip",
+      "tagName": "v2026.6.27.2"
+    }
+  }
+}
