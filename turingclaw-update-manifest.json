@@ -1,0 +1,32 @@
+{
+  "project": "TuringClaw",
+  "projectName": "TuringClaw",
+  "latestVersion": "2026.6.27.1",
+  "version": "2026.6.27.1",
+  "buildVersion": "2026.6.27.1",
+  "tag": "v2026.6.27.1",
+  "tagName": "v2026.6.27.1",
+  "packageName": "TuringClaw-Win-Portable-v2026.6.27.1.zip",
+  "packageFileName": "TuringClaw-Win-Portable-v2026.6.27.1.zip",
+  "sha256": "85c7e73f1a26391f73c2791baa808a8e2526cf0a9af9ed378cd0ad5bd519e66e",
+  "checksumSha256": "85c7e73f1a26391f73c2791baa808a8e2526cf0a9af9ed378cd0ad5bd519e66e",
+  "checksumMd5": "bc0f5e1538f49fd984bbfdba5886133f",
+  "downloadUrl": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.1/TuringClaw-Win-Portable-v2026.6.27.1.zip",
+  "officialDownloadUrl": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.1/TuringClaw-Win-Portable-v2026.6.27.1.zip",
+  "proxyDownloadUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.1/TuringClaw-Win-Portable-v2026.6.27.1.zip",
+  "updateLog": [
+    "fix: prefer official release asset in ota manifest",
+    ""
+  ],
+  "artifacts": {
+    "windows-portable": {
+      "url": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.1/TuringClaw-Win-Portable-v2026.6.27.1.zip",
+      "fallbackUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.1/TuringClaw-Win-Portable-v2026.6.27.1.zip",
+      "proxyUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.1/TuringClaw-Win-Portable-v2026.6.27.1.zip",
+      "sha256": "85c7e73f1a26391f73c2791baa808a8e2526cf0a9af9ed378cd0ad5bd519e66e",
+      "md5": "bc0f5e1538f49fd984bbfdba5886133f",
+      "fileName": "TuringClaw-Win-Portable-v2026.6.27.1.zip",
+      "tagName": "v2026.6.27.1"
+    }
+  }
+}
