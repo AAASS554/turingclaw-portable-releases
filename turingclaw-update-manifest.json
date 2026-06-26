@@ -1,0 +1,32 @@
+{
+  "project": "TuringClaw",
+  "projectName": "TuringClaw",
+  "latestVersion": "2026.6.27.3",
+  "version": "2026.6.27.3",
+  "buildVersion": "2026.6.27.3",
+  "tag": "v2026.6.27.3",
+  "tagName": "v2026.6.27.3",
+  "packageName": "TuringClaw-Win-Portable-v2026.6.27.3.zip",
+  "packageFileName": "TuringClaw-Win-Portable-v2026.6.27.3.zip",
+  "sha256": "b2034d47612ed44fdc9d4fbaeb25db31781e67e8acccd8b68f130e797d996545",
+  "checksumSha256": "b2034d47612ed44fdc9d4fbaeb25db31781e67e8acccd8b68f130e797d996545",
+  "checksumMd5": "9f5bbc7c5ab3001ab2e5dad0552f768f",
+  "downloadUrl": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.3/TuringClaw-Win-Portable-v2026.6.27.3.zip",
+  "officialDownloadUrl": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.3/TuringClaw-Win-Portable-v2026.6.27.3.zip",
+  "proxyDownloadUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.3/TuringClaw-Win-Portable-v2026.6.27.3.zip",
+  "updateLog": [
+    "fix: preserve portable bindings during update",
+    ""
+  ],
+  "artifacts": {
+    "windows-portable": {
+      "url": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.3/TuringClaw-Win-Portable-v2026.6.27.3.zip",
+      "fallbackUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.3/TuringClaw-Win-Portable-v2026.6.27.3.zip",
+      "proxyUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.3/TuringClaw-Win-Portable-v2026.6.27.3.zip",
+      "sha256": "b2034d47612ed44fdc9d4fbaeb25db31781e67e8acccd8b68f130e797d996545",
+      "md5": "9f5bbc7c5ab3001ab2e5dad0552f768f",
+      "fileName": "TuringClaw-Win-Portable-v2026.6.27.3.zip",
+      "tagName": "v2026.6.27.3"
+    }
+  }
+}
