@@ -1,0 +1,32 @@
+{
+  "project": "TuringClaw",
+  "projectName": "TuringClaw",
+  "latestVersion": "2026.6.27.5",
+  "version": "2026.6.27.5",
+  "buildVersion": "2026.6.27.5",
+  "tag": "v2026.6.27.5",
+  "tagName": "v2026.6.27.5",
+  "packageName": "TuringClaw-Win-Portable-v2026.6.27.5.zip",
+  "packageFileName": "TuringClaw-Win-Portable-v2026.6.27.5.zip",
+  "sha256": "8af0b563cd875a1db07c49b47baa5944c36f475ffade5dd73852282b083f6546",
+  "checksumSha256": "8af0b563cd875a1db07c49b47baa5944c36f475ffade5dd73852282b083f6546",
+  "checksumMd5": "16367032d11ec3e4494cdbf7f0d0c98a",
+  "downloadUrl": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-Win-Portable-v2026.6.27.5.zip",
+  "officialDownloadUrl": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-Win-Portable-v2026.6.27.5.zip",
+  "proxyDownloadUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-Win-Portable-v2026.6.27.5.zip",
+  "updateLog": [
+    "fix: correct dist sync workflow env expression",
+    ""
+  ],
+  "artifacts": {
+    "windows-portable": {
+      "url": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-Win-Portable-v2026.6.27.5.zip",
+      "fallbackUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-Win-Portable-v2026.6.27.5.zip",
+      "proxyUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-Win-Portable-v2026.6.27.5.zip",
+      "sha256": "8af0b563cd875a1db07c49b47baa5944c36f475ffade5dd73852282b083f6546",
+      "md5": "16367032d11ec3e4494cdbf7f0d0c98a",
+      "fileName": "TuringClaw-Win-Portable-v2026.6.27.5.zip",
+      "tagName": "v2026.6.27.5"
+    }
+  }
+}
