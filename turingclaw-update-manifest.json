@@ -29,15 +29,15 @@
       "tagName": "v2026.6.27.5"
     },
     "macos-portable-server": {
-      "url": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-MacOS-Portable-Server-v2026.6.27.5.tar.gz",
-      "fallbackUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-MacOS-Portable-Server-v2026.6.27.5.tar.gz",
-      "proxyUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-MacOS-Portable-Server-v2026.6.27.5.tar.gz",
-      "sha256": "86490a6addde7a35fd624acb17344b82b466c2a1b941fb0e51580e1b6a3a2e96",
-      "md5": "d8e53a62a7c3dfe2361949a1b02bd28b",
-      "fileName": "TuringClaw-MacOS-Portable-Server-v2026.6.27.5.tar.gz",
-      "tagName": "v2026.6.27.5",
-      "version": "2026.6.27.5",
-      "buildVersion": "2026.6.27.5",
+      "url": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.6/TuringClaw-MacOS-Portable-Server-v2026.6.27.6.tar.gz",
+      "fallbackUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.6/TuringClaw-MacOS-Portable-Server-v2026.6.27.6.tar.gz",
+      "proxyUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.6/TuringClaw-MacOS-Portable-Server-v2026.6.27.6.tar.gz",
+      "sha256": "7f4117a3dc1ecdbff4fba4ef425dccf7315bc36181f391d5000f71ce8c2247b1",
+      "md5": "97548ffeca997eabe36b193c496554f8",
+      "fileName": "TuringClaw-MacOS-Portable-Server-v2026.6.27.6.tar.gz",
+      "tagName": "v2026.6.27.6",
+      "version": "2026.6.27.6",
+      "buildVersion": "2026.6.27.6",
       "channel": "release"
     }
   }
