@@ -1,7 +1,8 @@
 # TuringClaw Dist
 
-This branch only keeps the latest portable update manifest.
+This branch keeps the shared update manifest for portable builds.
 
 - Manifest: turingclaw-update-manifest.json
-- Windows package: GitHub Release asset under tag v2026.6.27.5
-- Latest version: 2026.6.27.5
+- Latest synchronized version: 2026.6.27.5
+- Release tag: v2026.6.27.5
+- Includes Windows and macOS portable artifact entries when published.
