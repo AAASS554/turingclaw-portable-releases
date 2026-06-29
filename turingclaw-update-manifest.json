@@ -27,6 +27,18 @@
       "md5": "16367032d11ec3e4494cdbf7f0d0c98a",
       "fileName": "TuringClaw-Win-Portable-v2026.6.27.5.zip",
       "tagName": "v2026.6.27.5"
+    },
+    "macos-portable-server": {
+      "url": "https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-MacOS-Portable-Server-v2026.6.27.5.tar.gz",
+      "fallbackUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-MacOS-Portable-Server-v2026.6.27.5.tar.gz",
+      "proxyUrl": "https://ghproxy.com/https://github.com/AAASS554/turingclaw-portable-releases/releases/download/v2026.6.27.5/TuringClaw-MacOS-Portable-Server-v2026.6.27.5.tar.gz",
+      "sha256": "e4ed8c9f9913d1a999d2774d5f61f81cfbfbc7968883a3627f223e092e8e181a",
+      "md5": "699c4a605eb38c0872f003d30e8ed7d9",
+      "fileName": "TuringClaw-MacOS-Portable-Server-v2026.6.27.5.tar.gz",
+      "tagName": "v2026.6.27.5",
+      "version": "2026.6.27.5",
+      "buildVersion": "2026.6.27.5",
+      "channel": "release"
     }
   }
 }
